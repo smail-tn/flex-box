@@ -1,0 +1,10 @@
+@use "./cmpnt/vars" as *;
+//  importing cmpnt
+@use "./cmpnt/reset";
+@use "./cmpnt/body";
+@use "./cmpnt/buttons";
+@use "./cmpnt/reusable";
+
+//  importing sections
+@use './layout/main' ; 
+
